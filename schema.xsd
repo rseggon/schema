@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-            targetNamespace="https://github.com/rseggon/schema/schema.xsd"
-            xmlns="https://github.com/rseggon/schema/schema.xsd">
+            targetNamespace="https://raw.githubusercontent.com/rseggon/schema/refs/heads/main/schema.xsd"
+            xmlns="https://raw.githubusercontent.com/rseggon/schema/refs/heads/main/schema.xsd">
     <xs:element name="persona">
         
     </xs:element>
