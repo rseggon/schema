@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-            targetNamespace="https://raw.githubusercontent.com/rseggon/schema/refs/heads/main/schema.xsd"
-            xmlns="https://raw.githubusercontent.com/rseggon/schema/refs/heads/main/schema.xsd">
+            targetNamespace="https://raw.githubusercontent.com/rseggon/schema/refs/heads/main"
+            xmlns="https://raw.githubusercontent.com/rseggon/schema/refs/heads/main"
+            elementFormDefault="qualified">
     <xs:element name="persona">
         
     </xs:element>
